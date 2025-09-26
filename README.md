@@ -16,4 +16,5 @@ Machine learning exercises using the Wine Quality Dataset from the UCI repositor
  Install dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn`
 
 For detailed assignment requirements, see: [Assignment Description](idatg2208-assignmnet-1.pdf)
+
 For my own report for this assignment, see [Assignment report](assignment-report.pdf)
